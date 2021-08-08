@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GodNoob2021
+- 👋 Hi, I’m @hol
 - 👀 I’m interested in Discord
 - 🌱 I’m currently learning Djs or Discord.js
 - 💞️ I’m not looking to collaborate currently
